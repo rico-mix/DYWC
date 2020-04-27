@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[44]:
-
-
 from pynif import NIFCollection
 import os
 import xml.etree.ElementTree as ET
